@@ -1,11 +1,9 @@
-# lab8-markov-chains
-Lab 8 — Markov Chains Answers
-
 # Lab 8 — Markov Chains
 
-
 **Course:** CSPB 3753
+
 **Student:** Dain Kim
+
 **Date:** 05-11-2025
 
 
